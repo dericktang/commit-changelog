@@ -3,5 +3,5 @@ commit-changelog
 
 ## Install
 ```shell
-npm install commit-changelog
+npm install commit-changelog -g
 ```
