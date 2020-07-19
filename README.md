@@ -19,5 +19,8 @@ git cz
 npm run changelog
 ```
 
+## Example
+[test-commit-changelog](https://github.com/dericktang/test-commit-changelog).
+
 ## LICENSE
 [MIT](LICENSE)
