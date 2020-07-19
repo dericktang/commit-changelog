@@ -11,4 +11,9 @@ npm install commit-changelog -g
 commitChangelog init
 or
 commitChangelog init npm/cnpm
+
+git add 
+git cz
+
+npm run changelog
 ```
