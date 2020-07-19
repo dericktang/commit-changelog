@@ -5,3 +5,10 @@ commit-changelog
 ```shell
 npm install commit-changelog -g
 ```
+
+## Quick Start
+``` shell
+commitChangelog init
+or
+commitChangelog init npm/cnpm
+```
