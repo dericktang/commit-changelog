@@ -19,3 +19,5 @@ git cz
 npm run changelog
 ```
 
+## LICENSE
+[MIT](LICENSE)
