@@ -22,5 +22,10 @@ npm run changelog
 ## Example
 [test-commit-changelog](https://github.com/dericktang/test-commit-changelog).
 
+
+## Issues
+[提问](https://github.com/dericktang/commit-changelog/issues/new).
+
+
 ## LICENSE
 [MIT](LICENSE)
