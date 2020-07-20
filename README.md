@@ -28,4 +28,4 @@ npm run changelog
 
 
 ## LICENSE
-[MIT](LICENSE)
+[MIT](LICENSE).
